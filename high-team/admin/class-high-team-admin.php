@@ -6,7 +6,7 @@
 	* enqueue the admin-specific stylesheet and JavaScript.
 	* @package    high_team
 	* @subpackage high_team/admin
-	* @author     Your Name <email@example.com>
+	* @author    ernie
 ***/
 
 class high_team_Admin {

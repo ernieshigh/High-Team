@@ -29,7 +29,9 @@ get_header();
 					<header class="team-header">
 						<h1 class="team-member-title"><?php the_title(); ?></h1>
 						<span class="member-meta high-team-role"><?php echo   $role_name; ?> </span>
-						<span class="member-meta high-team-share">					
+						<span class="member-meta high-team-share">	
+
+fuck me						
 							<?php 
 								if(! empty($high_team_email)){
 									

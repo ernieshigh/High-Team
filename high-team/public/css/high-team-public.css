@@ -24,10 +24,12 @@
 }
 
 .team-member-content,
-.team-excerpt-content {
+.team-excerpt-content {    
     display: flex; 
     flex-wrap: wrap;
 }
+
+.team-excerpt-content{position: absolute;}
 
 .team-member-content{flex-wrap: nowrap;}
 .high-member-head{text-align: center;}
