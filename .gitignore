@@ -6,6 +6,8 @@
 /theme-check/
 /wordpress-seo/
 /high-team.zip
+/litespeed-cache/
+/wordpress-beta-tester/
 
 # only track
 !high-team/
