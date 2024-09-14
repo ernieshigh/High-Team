@@ -1,0 +1,14 @@
+# Ignore everything:
+
+/health-check/
+/high-service
+/index.php
+/theme-check/
+/wordpress-seo/
+/high-team.zip
+
+# only track
+!high-team/
+
+
+
